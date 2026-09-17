@@ -2,7 +2,7 @@
 
 Welcome to the repository for my personal portfolio website! This site showcases my background, academic projects, technical skills, and how to get in touch with me as a Computer Science student looking for internship and career opportunities.
 
-🔗 **Live Website:** [https://suhaimi205.github.io/Suhaimi_Sham.github.io/](https://suhaimi205.github.io/Suhaimi_Sham.github.io/)
+🔗 **Live Website:** [https://suhaimi205.github.io/Suhaimi_Sham.github.io/](https://suhaimi205.github.io/my_portfolio.io/)
 
 ---
 
