@@ -1,48 +1,33 @@
-# 👋 Hi, I'm Suhaimi Sham
+# Portfolio Website
 
-Welcome to the repository for my personal portfolio website! This site showcases my background, academic projects, technical skills, and how to get in touch with me as a Computer Science student looking for internship and career opportunities.
+Source files for Suhaimi Sham's personal portfolio website, featuring software, web, mobile, and data-focused projects.
 
-🔗 **Live Website:** [https://suhaimi205.github.io/my_portfolio.io/](https://suhaimi205.github.io/my_portfolio.io/)
+**Live site:** [suhaimi205.github.io/my_portfolio.io](https://suhaimi205.github.io/my_portfolio.io/)
 
----
+## Preview Locally
 
-## 🚀 About Me
+The site uses static HTML, CSS, and JavaScript; no package installation or build step is needed. Open `index.html` in a browser, or run a local server from the project folder:
 
-I am a final-year **Computer Science student** (CGPA: 3.61) with a deep passion for **AI & Data**, **Web Development**, and **Fintech** (especially digital payments and e-wallets). I love creating smart, user-friendly digital experiences and exploring how technology shapes everyday life. 
+```powershell
+python -m http.server 8000
+```
 
-* 🎓 **Status:** Final Year Student seeking an internship.
-* 📍 **Location:** Hulu Langat, Selangor, Malaysia.
-* 📄 **CV:** [View My CV](assets/pdf/cv_muhammad_suhaimi.pdf)
+Then visit `http://localhost:8000`.
 
----
+## Pages
 
-## 🛠️ Tech Stack & Skills
+- `index.html` - Main portfolio, profile, skills, experience, projects, and contact sections
+- `portfolio-detailsAnd.html` - Android project details
+- `portfolio-detailsC.html` - C++ project details
+- `portfolio-detailsSD.html` - Software development project details
+- `portfolio-detailsVB copy.html` - VB.NET project details
+- `portfolio-detailsVBFYP.html` - VB.NET final-year project details
+- `starter-page.html` - Starter page template
 
-Throughout my studies and personal projects, I have gained hands-on experience with the following technologies:
+## Project Files
 
-* **Programming Languages:** C++, Java, Python, VB.NET
-* **Web Development:** HTML, CSS, JavaScript, PHP
-* **Mobile Development:** Android Studio (Java & XML)
-* **Software Design & Tools:** Object-Oriented Programming, Database Integration, Git
-
----
-
-## 💼 Projects Featured on the Website
-
-The website highlights various academic activities and final-year projects:
-* **C++:** Console-based applications focusing on algorithmic logic and data structures.
-* **Android Studio:** Mobile applications combining Java and XML for UI/UX design.
-* **VB.NET:** Desktop applications featuring user-friendly interfaces and database integrations.
-* **Software Development / Final Year Projects:** Comprehensive software development undertakings.
-
----
-
-## 📬 Connect With Me
-
-* **Email:** [m.suhaimipro@gmail.com](mailto:m.suhaimipro@gmail.com)
-* **LinkedIn:** [Suhaimi Sham](https://www.linkedin.com/in/suhaimi-sham/)
-
----
-
-## 🙏 Credits & Acknowledgments
-* Website Template design inspired by [BootstrapMade](https://bootstrapmade.com/) and distributed by [ThemeWagon](https://themewagon.com/).
+- `assets/css/main.css` - Custom site styles
+- `assets/js/main.js` - Site interactions and plugin initialization
+- `assets/img/` - Profile, project, and other site images
+- `assets/pdf/` - Downloadable documents, including the CV
+- `assets/vendor/` - Bootstrap and other bundled front-end libraries
