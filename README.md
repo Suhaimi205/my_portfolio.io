@@ -4,15 +4,6 @@ Source files for Suhaimi Sham's personal portfolio website, featuring software, 
 
 **Live site:** [suhaimi205.github.io/my_portfolio.io](https://suhaimi205.github.io/my_portfolio.io/)
 
-## Preview Locally
-
-The site uses static HTML, CSS, and JavaScript; no package installation or build step is needed. Open `index.html` in a browser, or run a local server from the project folder:
-
-```powershell
-python -m http.server 8000
-```
-
-Then visit `http://localhost:8000`.
 
 ## Pages
 
